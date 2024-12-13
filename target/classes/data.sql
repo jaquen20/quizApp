@@ -1,0 +1,1 @@
+INSERT INTO QUESTIONS (id, question,option_a,option_b,option_c,option_d,correct_answer) VALUES(1,'who is the pm of india ?','Manmohan singh','rahul gandhi','Narendra Modi','none','c'),(2,'which is not a programming language','c++', 'HTML','python','java','b')
